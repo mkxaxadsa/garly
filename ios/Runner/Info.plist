@@ -19,11 +19,25 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3</string>
+	<string>4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.3</string>
+	<string>1.0.4</string>
+	<array>
+	<dict>
+	<key>CFBundleURLSchemes</key>
+	<array>
+		<string>fb439176045786596</string>
+	</array>
+	</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>439176045786596</string>
+	<key>FacebookClientToken</key>
+	<string>0e3c28b49bb1f020e0d40d514f29dd35</string>
+	<key>FacebookDisplayName</key>
+	<string>Garly</string>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>We need data to analize crashlogs of application</string>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
