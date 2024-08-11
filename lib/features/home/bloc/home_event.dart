@@ -63,7 +63,7 @@ class _RulesState extends State<Rules> {
   Future<void> nfjksdfjkldnsflkdsmfls() async {
     final AppsFlyerOptions options = AppsFlyerOptions(
       showDebug: false,
-      afDevKey: 'doJsrj8CyhTUWPZyAYTByE',
+      afDevKey: 'gW8agzqPttztGYg7qrtGeL',
       appId: '6505102258',
       timeToWaitForATTUserAuthorization: 15,
       disableAdvertisingIdentifier: false,

@@ -69,7 +69,7 @@ Future<void> nfgjksdngjksdfngjkdsngk() async {
   await njfksdfkldsf();
   final AppsFlyerOptions options = AppsFlyerOptions(
     showDebug: false,
-    afDevKey: 'doJsrj8CyhTUWPZyAYTByE',
+    afDevKey: 'gW8agzqPttztGYg7qrtGeL',
     appId: '6505102258',
     timeToWaitForATTUserAuthorization: 15,
     disableAdvertisingIdentifier: false,
